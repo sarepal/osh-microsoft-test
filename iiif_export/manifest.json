@@ -1,0 +1,1074 @@
+{
+    "logo": "https://readux.ecdsdev.org/media/logos/lits-logo-web.png",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "description": "x",
+    "viewingHint": "paged",
+    "label": "Formal Eval: OSH Microsoft Read",
+    "@type": "sc:Manifest",
+    "thumbnail": {
+        "service": {
+            "profile": "http://iiif.io/api/image/2/level1.json",
+            "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover1.jpg",
+            "@context": "http://iiif.io/api/image/2/context.json"
+        },
+        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover1.jpg/full/600,/0/default.jpg"
+    },
+    "within": [
+        "https://readux.ecdsdev.org/collection/sounding-spirit"
+    ],
+    "related": [
+        "https://readux.ecdsdev.org/volume/osh-formal-mir/page/all"
+    ],
+    "attribution": "Emory University Libraries",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest",
+    "metadata": [
+        {
+            "label": "Author",
+            "value": "x"
+        },
+        {
+            "label": "Publisher",
+            "value": "x"
+        },
+        {
+            "label": "Place of Publication",
+            "value": "x"
+        },
+        {
+            "label": "Publication Date",
+            "value": "x"
+        },
+        {
+            "label": "Notes",
+            "value": [
+                {}
+            ]
+        },
+        {
+            "label": "Record Created",
+            "value": "2019-10-10T20:25:49.788Z"
+        },
+        {
+            "label": "Edition Type",
+            "value": "Readux IIIF Exported Edition"
+        },
+        {
+            "label": "About Readux",
+            "value": "https://readux.ecdsdev.org/about/"
+        },
+        {
+            "label": "Annotators",
+            "value": "Sara E. Palmer"
+        },
+        {
+            "label": "Export Date",
+            "value": "2019-10-28T18:31:18.764"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "sequences": [
+        {
+            "startCanvas": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-cover1.jpg",
+            "label": "Current Page Order",
+            "@type": "sc:Sequence",
+            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/sequence/normal",
+            "canvases": [
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-cover1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-cover1.jpg"
+                        },
+                        {
+                            "label": "Annotations by sara11",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/annotations/sara11/osh-formal-mir/list/osh-formal-mir_OSH-cover1.jpg"
+                        }
+                    ],
+                    "label": "1",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-cover1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-cover1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3967,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-cover2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-cover2.jpg"
+                        }
+                    ],
+                    "label": "2",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3967,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-cover2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3505
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-cover2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-cover2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3505
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-curvedtext.jpg"
+                        }
+                    ],
+                    "label": "3",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-curvedtext.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-curvedtext.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-curvedtext.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-curvedtext.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3946,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-extraverses1.jpg"
+                        },
+                        {
+                            "label": "Annotations by sara11",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/annotations/sara11/osh-formal-mir/list/osh-formal-mir_OSH-extraverses1.jpg"
+                        }
+                    ],
+                    "label": "4",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3946,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3486
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-extraverses1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3486
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-extraverses2.jpg"
+                        }
+                    ],
+                    "label": "5",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-extraverses2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses3.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-extraverses3.jpg"
+                        }
+                    ],
+                    "label": "6",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses3.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses3.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses3.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-extraverses3.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses3.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses4.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-extraverses4.jpg"
+                        }
+                    ],
+                    "label": "7",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses4.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses4.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-extraverses4.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-extraverses4.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-extraverses4.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3977,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-index1.jpg"
+                        }
+                    ],
+                    "label": "8",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3977,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3514
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-index1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3514
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-index2.jpg"
+                        }
+                    ],
+                    "label": "9",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-index2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3977,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index3.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-index3.jpg"
+                        }
+                    ],
+                    "label": "10",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index3.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3977,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index3.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index3.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3514
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-index3.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index3.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3514
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index4.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-index4.jpg"
+                        }
+                    ],
+                    "label": "11",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index4.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index4.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-index4.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-index4.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-index4.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-intro1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-intro1.jpg"
+                        }
+                    ],
+                    "label": "12",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-intro1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-intro1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-intro1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-intro1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-intro1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3983,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-intro2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-intro2.jpg"
+                        }
+                    ],
+                    "label": "13",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-intro2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3983,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-intro2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-intro2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3519
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-intro2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-intro2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3519
+                },
+                {
+                    "width": 3960,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-music1.jpg"
+                        }
+                    ],
+                    "label": "14",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3960,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3499
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-music1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3499
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-music2.jpg"
+                        }
+                    ],
+                    "label": "15",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-music2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music3.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-music3.jpg"
+                        }
+                    ],
+                    "label": "16",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music3.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music3.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music3.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-music3.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music3.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music4.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-music4.jpg"
+                        }
+                    ],
+                    "label": "17",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music4.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music4.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-music4.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-music4.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-music4.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-onecolumn1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-onecolumn1.jpg"
+                        }
+                    ],
+                    "label": "18",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-onecolumn1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-onecolumn1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-onecolumn1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-onecolumn1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-onecolumn1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 4000,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-onecolumn2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-onecolumn2.jpg"
+                        }
+                    ],
+                    "label": "19",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-onecolumn2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 4000,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-onecolumn2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-onecolumn2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3534
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-onecolumn2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-onecolumn2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3534
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments1.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-rudiments1.jpg"
+                        }
+                    ],
+                    "label": "20",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments1.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments1.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments1.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-rudiments1.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments1.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3952,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments2.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-rudiments2.jpg"
+                        }
+                    ],
+                    "label": "21",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments2.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3952,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments2.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments2.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3492
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-rudiments2.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments2.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3492
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments3.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-rudiments3.jpg"
+                        }
+                    ],
+                    "label": "22",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments3.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments3.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments3.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-rudiments3.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments3.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments4.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-rudiments4.jpg"
+                        }
+                    ],
+                    "label": "23",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments4.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments4.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-rudiments4.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-rudiments4.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-rudiments4.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                },
+                {
+                    "width": 3916,
+                    "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-titlepage.jpg",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "otherContent": [
+                        {
+                            "label": "OCR Text",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-titlepage.jpg"
+                        }
+                    ],
+                    "label": "24",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "width": 200,
+                        "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-titlepage.jpg/full/200,/0/default.jpg",
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3916,
+                                "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-titlepage.jpg/full/full/0/default.jpg",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@id": "https://images.readux.ecds.emory.edu:8443/cantaloupe/iiif/2/osh-formal-mir_OSH-titlepage.jpg",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                },
+                                "@type": "dctypes:Image",
+                                "height": 3387
+                            },
+                            "@id": "https://readux.ecdsdev.org/iiif/osh-formal-mir/annotation/osh-formal-mir_OSH-titlepage.jpg",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "on": "https://readux.ecdsdev.org/iiif/osh-formal-mir/canvas/osh-formal-mir_OSH-titlepage.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 3387
+                }
+            ]
+        }
+    ]
+}

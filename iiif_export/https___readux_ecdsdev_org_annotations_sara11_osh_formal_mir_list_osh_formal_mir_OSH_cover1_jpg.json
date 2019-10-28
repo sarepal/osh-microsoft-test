@@ -1,0 +1,88 @@
+{
+    "@type": "sc:AnnotationList",
+    "@id": "https://readux.ecdsdev.org/annotations/sara11/osh-formal-mir/list/osh-formal-mir_OSH-cover1.jpg",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "resource": {
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>text</p>"
+            },
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@id": "1d7ab995-9166-469a-85fb-4293c61944c5",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-cover1.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            },
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='a8006c87-8fbd-476b-8f9e-bab2bfde6059']"
+                        },
+                        "endSelector": {
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 7
+                            },
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='608d432e-dbeb-4bfc-a453-ef8f7c26ccc0']"
+                        }
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1326,1329,1499,83"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Title</p>"
+            },
+            "annotatedBy": {
+                "name": "Sara E. Palmer"
+            },
+            "@id": "da56fab5-757e-4e61-b241-ca84d206f37c",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-cover1.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=877,876,2540,396"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M877.21082,875.85578h1269.86335v0h1269.86335v198.05832v198.05832h-1269.86335h-1269.86335v-198.05832z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f630274d-44c4-41cf-93c0-23aaba75289a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=877,876,2540,396"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting"
+        }
+    ]
+}

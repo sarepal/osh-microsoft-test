@@ -1,0 +1,2227 @@
+{
+    "@type": "sc:AnnotationList",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/list/osh-formal-mir_OSH-curvedtext.jpg",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6cb14b75-c70d-4a68-9253-235d1ae70618' style='height: 37px; width: 89px; font-size: 23.125px; letter-spacing: 6.2375px' data-letter-spacing='0.07008426966292135'>'IAhe</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "6cb14b75-c70d-4a68-9253-235d1ae70618",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=371,2691,89,37"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0b041ccd-8a0e-4f24-bc76-7a109b56de85' style='height: 46px; width: 219px; font-size: 28.75px; letter-spacing: 9.958333333333334px' data-letter-spacing='0.04547184170471842'>foregoing</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "0b041ccd-8a0e-4f24-bc76-7a109b56de85",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=477,2694,219,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9daa9a1a-af8a-4d47-9244-48217eb478f9' style='height: 46px; width: 295px; font-size: 28.75px; letter-spacing: 12.443181818181818px' data-letter-spacing='0.042180277349768876'>photographs</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "9daa9a1a-af8a-4d47-9244-48217eb478f9",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=713,2694,295,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bcffbed4-f3bf-46fa-ad53-e7b3ae074397' style='height: 35px; width: 167px; font-size: 21.875px; letter-spacing: 12.919642857142858px' data-letter-spacing='0.07736313088109495'>contain</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "bcffbed4-f3bf-46fa-ad53-e7b3ae074397",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1023,2694,167,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ae3199cf-ad1e-46f8-8393-27ccc311093e' style='height: 34px; width: 71px; font-size: 21.25px; letter-spacing: 13.041666666666666px' data-letter-spacing='0.18368544600938966'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "ae3199cf-ad1e-46f8-8393-27ccc311093e",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1206,2694,71,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d3e40c28-dceb-4b7c-b794-044f5ddffa2a' style='height: 35px; width: 239px; font-size: 21.875px; letter-spacing: 15.618055555555555px' data-letter-spacing='0.06534751278475127'>committee</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "d3e40c28-dceb-4b7c-b794-044f5ddffa2a",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1294,2693,239,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a4328983-2736-4d08-aa0a-d5ee2a9489a8' style='height: 46px; width: 236px; font-size: 28.75px; letter-spacing: 11.847222222222221px' data-letter-spacing='0.050200094161958565'>appointed</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "a4328983-2736-4d08-aa0a-d5ee2a9489a8",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1550,2692,236,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0d7a61db-666a-4b0d-9d43-82baf5e7280d' style='height: 45px; width: 57px; font-size: 28.125px; letter-spacing: 14.4375px' data-letter-spacing='0.2532894736842105'>by</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "0d7a61db-666a-4b0d-9d43-82baf5e7280d",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1803,2693,57,45"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d3f05c50-c313-4efb-a0f2-d2da66940f27' style='height: 34px; width: 72px; font-size: 21.25px; letter-spacing: 13.375px' data-letter-spacing='0.1857638888888889'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "d3f05c50-c313-4efb-a0f2-d2da66940f27",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1875,2692,72,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b4d451fa-121f-4475-946d-5813f1f2e0ef' style='height: 35px; width: 156px; font-size: 21.875px; letter-spacing: 15.0625px' data-letter-spacing='0.09655448717948718'>United</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "b4d451fa-121f-4475-946d-5813f1f2e0ef",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1965,2692,156,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='da3e9b3e-e0e2-411b-9a7c-a1462f8bb800' style='height: 35px; width: 157px; font-size: 21.875px; letter-spacing: 15.229166666666666px' data-letter-spacing='0.09700106157112526'>Sacred</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "da3e9b3e-e0e2-411b-9a7c-a1462f8bb800",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2143,2691,157,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='52785b74-f20f-4348-bf56-aa0727cfc6df' style='height: 46px; width: 118px; font-size: 28.75px; letter-spacing: 15.125px' data-letter-spacing='0.1281779661016949'>Harp</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "52785b74-f20f-4348-bf56-aa0727cfc6df",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2317,2691,118,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0d7dfe40-c633-4906-8622-ff2dcdffd5e8' style='height: 35px; width: 176px; font-size: 21.875px; letter-spacing: 14.205357142857142px' data-letter-spacing='0.0807122564935065'>Musical</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "0d7dfe40-c633-4906-8622-ff2dcdffd5e8",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2455,2691,176,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='78228818-2e8b-4939-8eee-2c3d1c43ecd3' style='height: 36px; width: 266px; font-size: 22.5px; letter-spacing: 12.931818181818182px' data-letter-spacing='0.04861585782638414'>Association</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "78228818-2e8b-4939-8eee-2c3d1c43ecd3",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2651,2690,266,36"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='86b528af-eef0-41a3-97a1-889125ab1ce0' style='height: 33px; width: 42px; font-size: 20.625px; letter-spacing: 10.6875px' data-letter-spacing='0.2544642857142857'>in</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "86b528af-eef0-41a3-97a1-889125ab1ce0",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2939,2692,42,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3f5aa72c-5f2b-4701-b420-59efb36f1e51' style='height: 46px; width: 261px; font-size: 28.75px; letter-spacing: 11.725px' data-letter-spacing='0.04492337164750958'>September,</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "3f5aa72c-5f2b-4701-b420-59efb36f1e51",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3002,2691,261,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bb41b3f3-bdba-4492-acf5-2285632ae148' style='height: 40px; width: 106px; font-size: 25.0px; letter-spacing: 8.7px' data-letter-spacing='0.0820754716981132'>1906,</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "bb41b3f3-bdba-4492-acf5-2285632ae148",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=297,2754,106,40"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='985ced10-1c20-477b-ad8f-a82ca8414ced' style='height: 35px; width: 96px; font-size: 21.875px; letter-spacing: 21.0625px' data-letter-spacing='0.21940104166666666'>who</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "985ced10-1c20-477b-ad8f-a82ca8414ced",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=426,2755,96,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='614a82f6-7dbb-4cdd-9d23-185e9fbc8e19' style='height: 35px; width: 107px; font-size: 21.875px; letter-spacing: 15.8125px' data-letter-spacing='0.1477803738317757'>have</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "614a82f6-7dbb-4cdd-9d23-185e9fbc8e19",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=544,2755,107,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dc11678b-fc56-43fb-99f9-c10ac13ccaf3' style='height: 45px; width: 84px; font-size: 28.125px; letter-spacing: 6.9375px' data-letter-spacing='0.08258928571428571'>just</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "dc11678b-fc56-43fb-99f9-c10ac13ccaf3",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=672,2757,84,45"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fec973d8-5300-4122-a5fa-a3b2c0ad7711' style='height: 46px; width: 242px; font-size: 28.75px; letter-spacing: 12.51388888888889px' data-letter-spacing='0.051710284664830124'>completed</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "fec973d8-5300-4122-a5fa-a3b2c0ad7711",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=777,2755,242,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='851b45c0-668f-4f56-93b6-6b2419538d57' style='height: 35px; width: 67px; font-size: 21.875px; letter-spacing: 11.395833333333334px' data-letter-spacing='0.1700870646766169'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "851b45c0-668f-4f56-93b6-6b2419538d57",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1040,2755,67,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fbc0942f-7880-4ef3-96b5-99bdb4b56804' style='height: 35px; width: 188px; font-size: 21.875px; letter-spacing: 12.5625px' data-letter-spacing='0.06682180851063829'>revision</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "fbc0942f-7880-4ef3-96b5-99bdb4b56804",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1128,2755,188,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='69a07e6b-d62c-464b-b115-0e4d4b56bbcd' style='height: 34px; width: 85px; font-size: 21.25px; letter-spacing: 17.708333333333332px' data-letter-spacing='0.20833333333333331'>and</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "69a07e6b-d62c-464b-b115-0e4d4b56bbcd",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1337,2755,85,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c870bbe9-4ad6-4c93-8528-15f894ddd047' style='height: 46px; width: 274px; font-size: 28.75px; letter-spacing: 10.534090909090908px' data-letter-spacing='0.03844558725945587'>compilation</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "c870bbe9-4ad6-4c93-8528-15f894ddd047",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1443,2753,274,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='05abc26c-eae7-4840-869e-882873690c51' style='height: 33px; width: 86px; font-size: 20.625px; letter-spacing: 18.354166666666668px' data-letter-spacing='0.21342054263565893'>and</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "05abc26c-eae7-4840-869e-882873690c51",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1737,2755,86,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='601cb4b7-1fe4-431f-ba8d-47af821be000' style='height: 43px; width: 176px; font-size: 26.875px; letter-spacing: 11.705357142857142px' data-letter-spacing='0.06650771103896104'>present</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "601cb4b7-1fe4-431f-ba8d-47af821be000",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1845,2756,176,43"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ac7de1df-3502-468f-ac9f-661e6ede1bea' style='height: 35px; width: 71px; font-size: 21.875px; letter-spacing: 12.729166666666666px' data-letter-spacing='0.17928403755868544'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "ac7de1df-3502-468f-ac9f-661e6ede1bea",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2041,2753,71,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='48d86fdb-42fd-4114-934f-43d26d19ba03' style='height: 34px; width: 158px; font-size: 21.25px; letter-spacing: 15.708333333333334px' data-letter-spacing='0.0994198312236287'>Sacred</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "48d86fdb-42fd-4114-934f-43d26d19ba03",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2371,2753,158,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2b857083-80d3-44f7-9b28-e65e2fd0073b' style='height: 46px; width: 137px; font-size: 28.75px; letter-spacing: 13.025px' data-letter-spacing='0.09507299270072993'>Harp\"</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "2b857083-80d3-44f7-9b28-e65e2fd0073b",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2559,2753,137,46"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6320c44d-7ac4-4627-9db2-121d5e91d808' style='height: 23px; width: 45px; font-size: 14.375px; letter-spacing: 15.3125px' data-letter-spacing='0.3402777777777778'>as</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "6320c44d-7ac4-4627-9db2-121d5e91d808",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2718,2764,45,23"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='39ba13ce-166f-4f9c-9261-97e1b132156e' style='height: 34px; width: 169px; font-size: 21.25px; letter-spacing: 13.517857142857142px' data-letter-spacing='0.07998732037193575'>revised</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "39ba13ce-166f-4f9c-9261-97e1b132156e",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2784,2753,169,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9c7786e1-2179-4eb3-abac-b2dfaa6305a0' style='height: 45px; width: 57px; font-size: 28.125px; letter-spacing: 14.4375px' data-letter-spacing='0.2532894736842105'>by</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "9c7786e1-2179-4eb3-abac-b2dfaa6305a0",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2972,2754,57,45"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0d83d542-49d8-4f1b-92e4-b0cf5f7f0782' style='height: 35px; width: 125px; font-size: 21.875px; letter-spacing: 14.0625px' data-letter-spacing='0.1125'>them.</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "0d83d542-49d8-4f1b-92e4-b0cf5f7f0782",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3049,2753,125,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3610a349-d3c4-447c-88ef-d147ad62aa8c' style='height: 34px; width: 37px; font-size: 21.25px; letter-spacing: 26.375px' data-letter-spacing='0.7128378378378378'>A</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "3610a349-d3c4-447c-88ef-d147ad62aa8c",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3228,2753,37,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f990c82f-2884-4168-b627-d1b40ef78435' style='height: 45px; width: 169px; font-size: 28.125px; letter-spacing: 10.080357142857142px' data-letter-spacing='0.05964708368554522'>perusal</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "f990c82f-2884-4168-b627-d1b40ef78435",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=296,2816,169,45"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='89d0e326-d0ec-4c82-8ed8-774665dce86b' style='height: 35px; width: 45px; font-size: 21.875px; letter-spacing: 11.5625px' data-letter-spacing='0.2569444444444444'>of</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "89d0e326-d0ec-4c82-8ed8-774665dce86b",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=485,2816,45,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fc56ab70-c086-4c2f-8346-387a0aa57371' style='height: 34px; width: 52px; font-size: 21.25px; letter-spacing: 6.708333333333333px' data-letter-spacing='0.12900641025641024'>its</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "fc56ab70-c086-4c2f-8346-387a0aa57371",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=550,2817,52,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='02616688-b7d8-4f67-b9bd-a03c6c07fa12' style='height: 40px; width: 128px; font-size: 25.0px; letter-spacing: 13.1px' data-letter-spacing='0.10234375'>pages</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "02616688-b7d8-4f67-b9bd-a03c6c07fa12",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=625,2823,128,40"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='078d7aac-1cf1-437c-886a-221f86468bc7' style='height: 34px; width: 83px; font-size: 21.25px; letter-spacing: 10.125px' data-letter-spacing='0.12198795180722892'>will</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "078d7aac-1cf1-437c-886a-221f86468bc7",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=776,2817,83,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f6213003-f2ea-44f1-9484-b5cf465b5130' style='height: 34px; width: 119px; font-size: 21.25px; letter-spacing: 19.125px' data-letter-spacing='0.16071428571428573'>show</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "f6213003-f2ea-44f1-9484-b5cf465b5130",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=880,2817,119,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='15321a07-1f2a-4ffa-980e-00963fed0364' style='height: 37px; width: 67px; font-size: 23.125px; letter-spacing: 10.770833333333334px' data-letter-spacing='0.1607587064676617'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "15321a07-1f2a-4ffa-980e-00963fed0364",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1021,2816,67,37"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='427e7b1b-7828-4012-ae76-0a63f0a6af48' style='height: 36px; width: 116px; font-size: 22.5px; letter-spacing: 17.75px' data-letter-spacing='0.15301724137931033'>work</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "427e7b1b-7828-4012-ae76-0a63f0a6af48",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1113,2816,116,36"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='80a879fb-6049-4d1e-beae-1d78fe2fdad9' style='height: 35px; width: 123px; font-size: 21.875px; letter-spacing: 13.6625px' data-letter-spacing='0.11107723577235772'>done.</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "80a879fb-6049-4d1e-beae-1d78fe2fdad9",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1249,2816,123,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5784f9d3-a5dc-4733-826d-82c834732cfe' style='height: 35px; width: 182px; font-size: 21.875px; letter-spacing: 15.0625px' data-letter-spacing='0.08276098901098901'>Further</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "5784f9d3-a5dc-4733-826d-82c834732cfe",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1428,2815,182,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1183bd95-bdf5-4a84-9345-03fc8045029a' style='height: 33px; width: 250px; font-size: 20.625px; letter-spacing: 14.6875px' data-letter-spacing='0.05875'>statements</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "1183bd95-bdf5-4a84-9345-03fc8045029a",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1631,2817,250,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3cf747cc-1fe0-4ad9-8440-e2ef7fe196c5' style='height: 35px; width: 44px; font-size: 21.875px; letter-spacing: 11.0625px' data-letter-spacing='0.25142045454545453'>of</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "3cf747cc-1fe0-4ad9-8440-e2ef7fe196c5",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1903,2815,44,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='be68c478-700d-4256-b096-6b0939326fe2' style='height: 34px; width: 71px; font-size: 21.25px; letter-spacing: 13.041666666666666px' data-letter-spacing='0.18368544600938966'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "be68c478-700d-4256-b096-6b0939326fe2",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1967,2816,71,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7473aca7-98c2-4b34-b1a9-3cc20c36ec07' style='height: 35px; width: 260px; font-size: 21.875px; letter-spacing: 12.698863636363637px' data-letter-spacing='0.048841783216783216'>corrections</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "7473aca7-98c2-4b34-b1a9-3cc20c36ec07",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2060,2815,260,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='da1c87e5-61f6-4d53-a623-332e9ff3cbd4' style='height: 34px; width: 42px; font-size: 21.25px; letter-spacing: 10.375px' data-letter-spacing='0.24702380952380953'>in</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "da1c87e5-61f6-4d53-a623-332e9ff3cbd4",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2342,2815,42,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bcc82ae7-7e3b-4da2-a3e0-5247c37d5ae9' style='height: 37px; width: 140px; font-size: 23.125px; letter-spacing: 11.770833333333334px' data-letter-spacing='0.08407738095238096'>music,</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "bcc82ae7-7e3b-4da2-a3e0-5247c37d5ae9",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2406,2815,140,37"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d52afb5f-5367-4700-8b3b-7634854d2f83' style='height: 34px; width: 215px; font-size: 21.25px; letter-spacing: 13.26388888888889px' data-letter-spacing='0.061692506459948324'>additions</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "d52afb5f-5367-4700-8b3b-7634854d2f83",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2567,2815,215,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9429a269-3e17-417a-a122-9f51d996e77b' style='height: 38px; width: 132px; font-size: 23.75px; letter-spacing: 14.525px' data-letter-spacing='0.1100378787878788'>made,</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "9429a269-3e17-417a-a122-9f51d996e77b",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2805,2816,132,38"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='300bd495-54ab-4b30-b366-842cf5c4d305' style='height: 34px; width: 42px; font-size: 21.25px; letter-spacing: 10.375px' data-letter-spacing='0.24702380952380953'>in</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "300bd495-54ab-4b30-b366-842cf5c4d305",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2959,2815,42,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b6209d7f-9450-4177-a2d4-21194c956a3d' style='height: 35px; width: 83px; font-size: 21.875px; letter-spacing: 9.8125px' data-letter-spacing='0.11822289156626506'>this</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "b6209d7f-9450-4177-a2d4-21194c956a3d",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3023,2815,83,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b4b467aa-7b29-4662-a684-4ca6844acf5e' style='height: 35px; width: 136px; font-size: 21.875px; letter-spacing: 11.729166666666666px' data-letter-spacing='0.0862438725490196'>valua-</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "b4b467aa-7b29-4662-a684-4ca6844acf5e",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3127,2815,136,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7a8dff8c-4916-46c7-b22b-c99391b5445b' style='height: 35px; width: 68px; font-size: 21.875px; letter-spacing: 11.729166666666666px' data-letter-spacing='0.1724877450980392'>ble</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "7a8dff8c-4916-46c7-b22b-c99391b5445b",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=296,2877,68,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b48a8263-0ebd-4eab-a012-16bc56ab693c' style='height: 40px; width: 106px; font-size: 25.0px; letter-spacing: 14.0px' data-letter-spacing='0.1320754716981132'>song</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "b48a8263-0ebd-4eab-a012-16bc56ab693c",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=385,2885,106,40"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b6d85811-ca2f-4b92-8efa-112e06a594de' style='height: 35px; width: 113px; font-size: 21.875px; letter-spacing: 17.3125px' data-letter-spacing='0.1532079646017699'>book</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "b6d85811-ca2f-4b92-8efa-112e06a594de",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=512,2879,113,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dfe6dc16-48f7-4793-be74-d9aaca8fa9b4' style='height: 33px; width: 84px; font-size: 20.625px; letter-spacing: 10.6875px' data-letter-spacing='0.12723214285714285'>will</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "dfe6dc16-48f7-4793-be74-d9aaca8fa9b4",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=648,2879,84,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='14f7398b-4874-49f2-a386-19c17ebe695e' style='height: 34px; width: 52px; font-size: 21.25px; letter-spacing: 15.375px' data-letter-spacing='0.2956730769230769'>be</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "14f7398b-4874-49f2-a386-19c17ebe695e",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=753,2879,52,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='11c1bd67-ea11-416f-8e68-965977cb8356' style='height: 35px; width: 134px; font-size: 21.875px; letter-spacing: 15.8625px' data-letter-spacing='0.1183768656716418'>found</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "11c1bd67-ea11-416f-8e68-965977cb8356",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=828,2878,134,35"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a9d728be-67a3-4450-b717-4c904094b328' style='height: 33px; width: 42px; font-size: 20.625px; letter-spacing: 10.6875px' data-letter-spacing='0.2544642857142857'>in</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "a9d728be-67a3-4450-b717-4c904094b328",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=984,2879,42,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fb525a91-3810-4603-812e-29612cf67920' style='height: 41px; width: 67px; font-size: 25.625px; letter-spacing: 9.520833333333334px' data-letter-spacing='0.14210199004975124'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "fb525a91-3810-4603-812e-29612cf67920",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1048,2872,67,41"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='28eb5795-5b79-4ae7-98b8-475e2c4b82cf' style='height: 44px; width: 309px; font-size: 27.5px; letter-spacing: 10.01923076923077px' data-letter-spacing='0.032424695046054275'>Introductory,</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "28eb5795-5b79-4ae7-98b8-475e2c4b82cf",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1138,2879,309,44"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5c87a7a4-3409-4369-8098-4f3ceba84f48' style='height: 45px; width: 57px; font-size: 28.125px; letter-spacing: 14.4375px' data-letter-spacing='0.2532894736842105'>by</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "5c87a7a4-3409-4369-8098-4f3ceba84f48",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1471,2878,57,45"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d2f318f3-b122-477a-b184-23f74780227c' style='height: 33px; width: 71px; font-size: 20.625px; letter-spacing: 13.354166666666666px' data-letter-spacing='0.18808685446009388'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "d2f318f3-b122-477a-b184-23f74780227c",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1547,2878,71,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2f3d379e-7ca9-4137-9436-10bc32381e2a' style='height: 34px; width: 217px; font-size: 21.25px; letter-spacing: 16.5px' data-letter-spacing='0.07603686635944701'>chairman</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "2f3d379e-7ca9-4137-9436-10bc32381e2a",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1640,2877,217,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d0cb16d7-b740-4931-a0b0-4618581c1e84' style='height: 34px; width: 44px; font-size: 21.25px; letter-spacing: 11.375px' data-letter-spacing='0.2585227272727273'>of</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "d0cb16d7-b740-4931-a0b0-4618581c1e84",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1880,2877,44,34"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8a26b98a-7401-4177-9d2a-e52ceaf69cd8' style='height: 33px; width: 71px; font-size: 20.625px; letter-spacing: 13.354166666666666px' data-letter-spacing='0.18808685446009388'>the</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "8a26b98a-7401-4177-9d2a-e52ceaf69cd8",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1951,2878,71,33"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='717356bc-0e96-4af8-b0e1-28b9d9e8ccaf' style='height: 38px; width: 250px; font-size: 23.75px; letter-spacing: 13.125px' data-letter-spacing='0.0525'>committee,</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "717356bc-0e96-4af8-b0e1-28b9d9e8ccaf",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2045,2877,250,38"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='675b58ca-799b-4ea3-bda0-5b8c0bcb52cd' style='height: 23px; width: 55px; font-size: 14.375px; letter-spacing: 20.3125px' data-letter-spacing='0.3693181818181818'>on</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "675b58ca-799b-4ea3-bda0-5b8c0bcb52cd",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2318,2888,55,23"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1759b697-76e2-47c4-8e3b-da2b7d454990' style='height: 47px; width: 217px; font-size: 29.375px; letter-spacing: 9.42361111111111px' data-letter-spacing='0.043426779313876084'>following</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "1759b697-76e2-47c4-8e3b-da2b7d454990",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2395,2876,217,47"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        },
+        {
+            "resource": {
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6612d49b-755e-4b57-8f88-fba19cf1f57c' style='height: 40px; width: 139px; font-size: 25.0px; letter-spacing: 10.666666666666666px' data-letter-spacing='0.07673860911270983'>pages.</span>"
+            },
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@id": "6612d49b-755e-4b57-8f88-fba19cf1f57c",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "on": {
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/osh-formal-mir/canvas/osh-formal-mir_OSH-curvedtext.jpg",
+                "selector": {
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    },
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2636,2883,139,40"
+                }
+            },
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting"
+        }
+    ]
+}
